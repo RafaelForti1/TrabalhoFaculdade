@@ -2,8 +2,8 @@
 // Aqui a gente configura como conectar ao banco de dados MySQL
 $host = 'localhost';
 $dbname = 'crud_usuarios';
-$user = 'root'; // Coloque o usuário do MySQL aqui
-$password = ''; // Coloque a senha do MySQL aqui
+$user = 'root';
+$password = '';
 
 try {
     // Criando a conexão com o banco
